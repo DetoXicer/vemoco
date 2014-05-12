@@ -81,3 +81,4 @@ Zend skeleton instalálása:
 Backend config:
 	feladat.sql fál tartalmazza a szükséges adatbázist az adatokkal együtt.
 	
+
